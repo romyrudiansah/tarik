@@ -1,0 +1,32 @@
+Lisensi Tarik (freeware) — English below
+=========================================
+
+Hak cipta (c) 2026 Romy Rudiansah. Semua hak dilindungi.
+
+Tarik adalah perangkat lunak gratis (freeware), bukan perangkat lunak sumber terbuka.
+
+1. Anda boleh memasang dan memakai Tarik secara gratis, untuk keperluan pribadi maupun komersial, di komputer sebanyak yang Anda perlukan.
+2. Anda boleh membagikan installer Tarik yang tidak diubah, tanpa memungut biaya. Lebih baik bagikan tautan website resminya: https://romyrudiansah.github.io/tarik/
+3. Anda tidak boleh menjual Tarik, mengubahnya, atau membongkar programnya (reverse engineering, decompile, disassemble), kecuali sejauh diizinkan hukum yang berlaku.
+4. Tarik disediakan "apa adanya", tanpa jaminan apa pun. Sejauh diizinkan hukum yang berlaku, pembuatnya tidak bertanggung jawab atas kerugian yang timbul dari pemakaian Tarik.
+5. Anda bertanggung jawab memastikan bahwa file yang Anda unduh dengan Tarik memang boleh Anda unduh.
+6. Tarik memakai komponen pihak ketiga dengan lisensinya sendiri; lihat THIRD-PARTY-NOTICES.txt.
+
+Kontak: romy.rudiansah@gmail.com
+
+
+Tarik license (freeware)
+========================
+
+Copyright (c) 2026 Romy Rudiansah. All rights reserved.
+
+Tarik is free software to use (freeware). It is not open source.
+
+1. You may install and use Tarik free of charge, for personal or commercial purposes, on as many computers as you need.
+2. You may share the unmodified Tarik installer, free of charge. Sharing a link to the official website is preferred: https://romyrudiansah.github.io/tarik/
+3. You may not sell Tarik, modify it, or reverse engineer, decompile or disassemble it, except to the extent applicable law allows.
+4. Tarik is provided "as is", without warranty of any kind. To the extent applicable law allows, its author is not liable for any damage arising from the use of Tarik.
+5. You are responsible for making sure you are allowed to download the files you download with Tarik.
+6. Tarik includes third-party components under their own licenses; see THIRD-PARTY-NOTICES.txt.
+
+Contact: romy.rudiansah@gmail.com

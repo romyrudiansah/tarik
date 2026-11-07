@@ -1,0 +1,17 @@
+{
+    "version":  "1.0.1",
+    "url":  "https://romyrudiansah.github.io/tarik/download/Tarik-Setup-1.0.1.exe",
+    "size":  8363222,
+    "sha256":  "6c9f1da076d9b6bb004bb3afd05136d3fa969e6ffa0a15fe5c0ed2592df51407",
+    "date":  "2026-11-07",
+    "notes":  {
+                  "id":  [
+                             "Download dari browser saat Tarik ada di tray kini hanya memunculkan jendela kecil \"Tambah download\", tanpa membuka seluruh aplikasi. Begitu juga URL dari clipboard dan \"Tambah URL…\" di menu tray.",
+                             "Klik ikon tray saat jendela itu tampil untuk memindahkan dialognya ke jendela utama."
+                         ],
+                  "en":  [
+                             "A download sent from the browser while Tarik is in the tray now shows only the small \"Add download\" window instead of opening the whole app. The same goes for copied URLs and \"Add URL…\" in the tray menu.",
+                             "Click the tray icon while that window is open to move the dialog into the main window."
+                         ]
+              }
+}
