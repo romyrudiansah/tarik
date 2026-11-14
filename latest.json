@@ -1,0 +1,15 @@
+{
+    "version":  "1.0.2",
+    "url":  "https://romyrudiansah.github.io/tarik/download/Tarik-Setup-1.0.2.exe",
+    "size":  8363588,
+    "sha256":  "2736d69a83b1ce0bf34bd3a8e7a310e72fe87516a0c46ca782987adcaeabccd5",
+    "date":  "2026-11-14",
+    "notes":  {
+                  "id":  [
+                             "Bilah judul jendela kini ikut tema yang dipilih di Tarik. Sebelumnya bilah judul tetap hitam saat Windows memakai mode gelap, walaupun Tarik diatur terang."
+                         ],
+                  "en":  [
+                             "The window title bar now follows the theme chosen in Tarik. Before, it stayed black when Windows used dark mode, even with Tarik set to light."
+                         ]
+              }
+}

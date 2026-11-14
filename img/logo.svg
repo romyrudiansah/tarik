@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Tarik</title>
+  <rect width="256" height="256" rx="60" fill="#5B5CF0"/>
+  <path d="M146 32L94 118H128L116 150" fill="none" stroke="#fff" stroke-width="22" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M82 146H174L128 208Z" fill="#fff" stroke="#fff" stroke-width="14" stroke-linejoin="round"/>
+</svg>
